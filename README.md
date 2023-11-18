@@ -9,6 +9,8 @@
   Add your open source license, GitHub uses the MIT license.
 -->
 
+[![Step 0, Welcome](https://github.com/kenedyolisi/github-skills-introduction-to-codeql/actions/workflows/0-welcome.yml/badge.svg)](https://github.com/kenedyolisi/github-skills-introduction-to-codeql/actions/workflows/0-welcome.yml)
+
 # Enable CodeQL to secure your source code
 
 _Ensuring the security of application source code is a critical step in modern software development. In this GitHub Skills course, you will learn to use GitHub code scanning to identify, resolve, and prevent insecure coding patterns._
