@@ -9,6 +9,18 @@
   Add your open source license, GitHub uses the MIT license.
 -->
 
+[![Step 0, Welcome](https://github.com/kenedyolisi/github-skills-introduction-to-codeql/actions/workflows/0-welcome.yml/badge.svg)](https://github.com/kenedyolisi/github-skills-introduction-to-codeql/actions/workflows/0-welcome.yml)
+
+[![Step 1, Enable CodeQL](https://github.com/kenedyolisi/github-skills-introduction-to-codeql/actions/workflows/1-enable-codeql.yml/badge.svg)](https://github.com/kenedyolisi/github-skills-introduction-to-codeql/actions/workflows/1-enable-codeql.yml)
+
+[![Step 2, review-and-triage-codeql-alerts](https://github.com/kenedyolisi/github-skills-introduction-to-codeql/actions/workflows/2-review-and-triage-codeql-alerts.yml/badge.svg)](https://github.com/kenedyolisi/github-skills-introduction-to-codeql/actions/workflows/2-review-and-triage-codeql-alerts.yml)
+
+[![Step 3, fix-security-vulnerabilities](https://github.com/kenedyolisi/github-skills-introduction-to-codeql/actions/workflows/3-fix-security-vulnerabilities.yml/badge.svg)](https://github.com/kenedyolisi/github-skills-introduction-to-codeql/actions/workflows/3-fix-security-vulnerabilities.yml)
+
+[![Step 4, prevent-vulnerabilities-in-the-pull-request](https://github.com/kenedyolisi/github-skills-introduction-to-codeql/actions/workflows/4-prevent-vulnerabilities-in-the-pull-request.yml/badge.svg)](https://github.com/kenedyolisi/github-skills-introduction-to-codeql/actions/workflows/4-prevent-vulnerabilities-in-the-pull-request.yml)
+
+[![Step 5, TBD-step-5-name](https://github.com/kenedyolisi/github-skills-introduction-to-codeql/actions/workflows/5-tbd.yml/badge.svg)](https://github.com/kenedyolisi/github-skills-introduction-to-codeql/actions/workflows/5-tbd.yml)
+
 # Enable CodeQL to secure your source code
 
 _Ensuring the security of application source code is a critical step in modern software development. In this GitHub Skills course, you will learn to use GitHub code scanning to identify, resolve, and prevent insecure coding patterns._
