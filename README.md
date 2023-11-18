@@ -17,6 +17,8 @@
 
 [![Step 3, fix-security-vulnerabilities](https://github.com/kenedyolisi/github-skills-introduction-to-codeql/actions/workflows/3-fix-security-vulnerabilities.yml/badge.svg)](https://github.com/kenedyolisi/github-skills-introduction-to-codeql/actions/workflows/3-fix-security-vulnerabilities.yml)
 
+[![Step 4, prevent-vulnerabilities-in-the-pull-request](https://github.com/kenedyolisi/github-skills-introduction-to-codeql/actions/workflows/4-prevent-vulnerabilities-in-the-pull-request.yml/badge.svg)](https://github.com/kenedyolisi/github-skills-introduction-to-codeql/actions/workflows/4-prevent-vulnerabilities-in-the-pull-request.yml)
+
 # Enable CodeQL to secure your source code
 
 _Ensuring the security of application source code is a critical step in modern software development. In this GitHub Skills course, you will learn to use GitHub code scanning to identify, resolve, and prevent insecure coding patterns._
